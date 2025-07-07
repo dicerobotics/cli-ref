@@ -3,7 +3,7 @@
 ### Custom keyboard shortcuts for inter-OS compatibility
 
 Keyboard: Apple Keyboard.  
-Key Remap: Map **"CMD"** key to **"Ctrl"** key and remap **Ctrl** key to **Win** key in Windows OS.  
+Key Remap: Map **"CMD/WIN"** key to **"Ctrl"** key and remap **Ctrl** key to **CMD/Win** key in Windows OS.  
 Shortcuts: Default + Custom (overwritten to default for consistency across operating systems).  
 
 | Custom Shortcuts | Scope | MacOS | Windows OS | Linux (Ubuntu) | Remark |
